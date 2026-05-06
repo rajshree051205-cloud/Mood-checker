@@ -1,1 +1,0 @@
-$(p).text('how are you')
